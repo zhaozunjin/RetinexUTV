@@ -1,2 +1,2 @@
 # RetinexUTV
-Official implement of RetinexUTV
+This is the official implement of RetinexUTV.
